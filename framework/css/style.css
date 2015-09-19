@@ -1,0 +1,73 @@
+body {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 300;
+  line-height: 200%;
+}
+
+/** Fonts **/
+.thin {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 100;
+}
+
+.normal {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 300;
+}
+
+.heavy {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 400;
+}
+
+/** Header **/
+
+header .logo {
+  margin: 20px 0 0 0;
+}
+
+header .my-name-logo {
+  margin: 20px 0 0 0;
+}
+
+header .horizontal-rule {
+  padding: 0 30px;
+  margin-bottom: 30px;
+}
+
+/** Page Margins **/
+
+.featured,
+.about-me,
+.work {
+  margin-bottom: 30px;
+}
+
+/** About Me Section **/
+
+.content {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.my-image img {
+  width: 300px;
+  height: 300px;
+  border: 5px solid #f8981c;
+}
+
+/** Featured Work Section **/
+
+.work-headline {
+  margin-bottom: 20px;
+}
+
+/** Colors **/
+
+header .my-name-logo {
+  color: #747704;
+}
+
+.dim {
+  color: #bcbbbb;
+}
